@@ -48,15 +48,40 @@ def sign(params, mixin):
 def main():
     buvid3 = get_buvid3()
     mixin = get_mixin_key(buvid3)
-    q = sign({'mid': UID, 'ps': '8', 'pn': '1'}, mixin)
-    url = 'https://api.bilibili.com/x/space/arc/search?' + q
-    headers = {'User-Agent': UA, 'Referer': 'https://space.bilibili.com/' + UID}
+    q = sign({'mid': UID, 'ps': '8', 'pn': '1', 'order': 'pubdate'}, mixin)
+    url = 'https://api.bilibili.com/x/space/wbi/arc/search?' + q
+    headers = {
+        'User-Agent': UA,
+        'Referer': 'https://space.bilibili.com/' + UID,
+        'Origin': 'https://space.bilibili.com',
+        'Accept': 'application/json, text/plain, */*',
+        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8'
+    }
     if buvid3:
         headers['Cookie'] = 'buvid3=' + buvid3
-    raw = http_get(url, headers)
-    d = json.loads(raw)
-    if d.get('code') != 0:
-        print('API error:', raw[:300])
+    last_err = ''
+    for attempt in range(5):
+        try:
+            raw = http_get(url, headers)
+            d = json.loads(raw)
+            if d.get('code') == 0:
+                break
+            last_err = 'code=' + str(d.get('code')) + ' ' + str(d.get('message', ''))
+            print('attempt', attempt + 1, 'api error:', last_err)
+            if d.get('code') in (-799, -352):
+                time.sleep(15)
+                continue
+            else:
+                sys.exit(1)
+        except urllib.error.HTTPError as e:
+            last_err = 'HTTP ' + str(e.code)
+            print('attempt', attempt + 1, 'HTTP error:', last_err)
+            if e.code == 412:
+                time.sleep(20)
+                continue
+            raise
+    else:
+        print('all attempts failed:', last_err)
         sys.exit(1)
     vlist = d['data']['list']['vlist'][:8]
     items = [{
