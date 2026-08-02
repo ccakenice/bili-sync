@@ -3,7 +3,7 @@
     {
       "key": "event-stages",
       "name": "活动关卡",
-      "desc": "历次 Side Story 与故事集活动关卡，含复刻。",
+      "desc": "历次 Side Story 活动关卡，含复刻。",
       "groups": [
         {
           "name": "2026",
@@ -47,44 +47,6 @@
                 {
                   "code": "TO-9",
                   "solutions": 6
-                }
-              ]
-            },
-            {
-              "name": "丛林症结",
-              "img": "images/modes/活动名称_丛林症结.png",
-              "stages": [
-                {
-                  "code": "BD-1",
-                  "solutions": 4
-                },
-                {
-                  "code": "BD-2",
-                  "solutions": 4
-                },
-                {
-                  "code": "BD-3",
-                  "solutions": 5
-                },
-                {
-                  "code": "BD-4",
-                  "solutions": 4
-                },
-                {
-                  "code": "BD-5",
-                  "solutions": 4
-                },
-                {
-                  "code": "BD-6",
-                  "solutions": 3
-                },
-                {
-                  "code": "BD-7",
-                  "solutions": 3
-                },
-                {
-                  "code": "BD-8",
-                  "solutions": 7
                 }
               ]
             },
@@ -161,48 +123,6 @@
                 {
                   "code": "PA-8",
                   "solutions": 3
-                }
-              ]
-            },
-            {
-              "name": "十字路口",
-              "img": "images/modes/活动名称_十字路口.png",
-              "stages": [
-                {
-                  "code": "CG2",
-                  "solutions": 1
-                },
-                {
-                  "code": "CG-1",
-                  "solutions": 4
-                },
-                {
-                  "code": "CG-2",
-                  "solutions": 2
-                },
-                {
-                  "code": "CG-3",
-                  "solutions": 3
-                },
-                {
-                  "code": "CG-4",
-                  "solutions": 3
-                },
-                {
-                  "code": "CG-5",
-                  "solutions": 3
-                },
-                {
-                  "code": "CG-6",
-                  "solutions": 3
-                },
-                {
-                  "code": "CG-7",
-                  "solutions": 3
-                },
-                {
-                  "code": "CG-8",
-                  "solutions": 4
                 }
               ]
             },
@@ -460,44 +380,6 @@
               ]
             },
             {
-              "name": "镜中集",
-              "img": "images/modes/活动名称_镜中集.png",
-              "stages": [
-                {
-                  "code": "FM-1",
-                  "solutions": 2
-                },
-                {
-                  "code": "FM-2",
-                  "solutions": 1
-                },
-                {
-                  "code": "FM-3",
-                  "solutions": 2
-                },
-                {
-                  "code": "FM-4",
-                  "solutions": 2
-                },
-                {
-                  "code": "FM-5",
-                  "solutions": 3
-                },
-                {
-                  "code": "FM-6",
-                  "solutions": 1
-                },
-                {
-                  "code": "FM-7",
-                  "solutions": 1
-                },
-                {
-                  "code": "FM-8",
-                  "solutions": 4
-                }
-              ]
-            },
-            {
               "name": "红丝绒",
               "img": "images/modes/活动名称_红丝绒.png",
               "stages": [
@@ -616,44 +498,6 @@
                 {
                   "code": "EA-8",
                   "solutions": 6
-                }
-              ]
-            },
-            {
-              "name": "我们明日见",
-              "img": "images/modes/活动名称_我们明日见.png",
-              "stages": [
-                {
-                  "code": "SE-1",
-                  "solutions": 4
-                },
-                {
-                  "code": "SE-2",
-                  "solutions": 1
-                },
-                {
-                  "code": "SE-3",
-                  "solutions": 2
-                },
-                {
-                  "code": "SE-4",
-                  "solutions": 1
-                },
-                {
-                  "code": "SE-5",
-                  "solutions": 1
-                },
-                {
-                  "code": "SE-6",
-                  "solutions": 1
-                },
-                {
-                  "code": "SE-7",
-                  "solutions": 2
-                },
-                {
-                  "code": "SE-8",
-                  "solutions": 4
                 }
               ]
             },
@@ -911,44 +755,6 @@
               ]
             },
             {
-              "name": "熔炉\"还魂\"记",
-              "img": "images/modes/活动名称_熔炉“还魂”记.png",
-              "stages": [
-                {
-                  "code": "KR-1",
-                  "solutions": 1
-                },
-                {
-                  "code": "KR-2",
-                  "solutions": 1
-                },
-                {
-                  "code": "KR-3",
-                  "solutions": 1
-                },
-                {
-                  "code": "KR-4",
-                  "solutions": 1
-                },
-                {
-                  "code": "KR-5",
-                  "solutions": 1
-                },
-                {
-                  "code": "KR-6",
-                  "solutions": 1
-                },
-                {
-                  "code": "KR-7",
-                  "solutions": 1
-                },
-                {
-                  "code": "KR-8",
-                  "solutions": 1
-                }
-              ]
-            },
-            {
               "name": "生路",
               "img": "images/modes/活动名称_生路.png",
               "stages": [
@@ -1111,44 +917,6 @@
                   "solutions": 4
                 }
               ]
-            },
-            {
-              "name": "去咧嘴谷",
-              "img": "images/modes/活动名称_去咧嘴谷.png",
-              "stages": [
-                {
-                  "code": "TG-1",
-                  "solutions": 1
-                },
-                {
-                  "code": "TG-2",
-                  "solutions": 1
-                },
-                {
-                  "code": "TG-3",
-                  "solutions": 1
-                },
-                {
-                  "code": "TG-4",
-                  "solutions": 1
-                },
-                {
-                  "code": "TG-5",
-                  "solutions": 1
-                },
-                {
-                  "code": "TG-6",
-                  "solutions": 1
-                },
-                {
-                  "code": "TG-7",
-                  "solutions": 1
-                },
-                {
-                  "code": "TG-8",
-                  "solutions": 2
-                }
-              ]
             }
           ]
         },
@@ -1277,11 +1045,6 @@
               ]
             },
             {
-              "name": "眠于树影之中",
-              "img": "images/modes/活动名称_眠于树影之中.png",
-              "stages": []
-            },
-            {
               "name": "空想花庭",
               "img": "images/modes/活动名称_空想花庭.png",
               "stages": [
@@ -1374,11 +1137,6 @@
                   "solutions": 1
                 }
               ]
-            },
-            {
-              "name": "春分",
-              "img": "images/modes/活动名称_春分.png",
-              "stages": []
             },
             {
               "name": "登临意",
@@ -1492,16 +1250,6 @@
               ]
             },
             {
-              "name": "好久不见",
-              "img": "images/modes/活动名称_好久不见.png",
-              "stages": []
-            },
-            {
-              "name": "日暮寻路",
-              "img": "images/modes/活动名称_日暮寻路.png",
-              "stages": []
-            },
-            {
               "name": "理想城：长夏狂欢季",
               "img": "images/modes/活动名称_理想城长夏狂欢季.png",
               "stages": [
@@ -1526,11 +1274,6 @@
                   "solutions": 1
                 }
               ]
-            },
-            {
-              "name": "未尽篇章",
-              "img": "images/modes/活动名称_未尽篇章.png",
-              "stages": []
             },
             {
               "name": "绿野幻梦",
@@ -1623,11 +1366,6 @@
                   "solutions": 1
                 }
               ]
-            },
-            {
-              "name": "阴云火花",
-              "img": "images/modes/活动名称_阴云火花.png",
-              "stages": []
             },
             {
               "name": "将进酒",
@@ -1741,11 +1479,6 @@
               ]
             },
             {
-              "name": "红松林",
-              "img": "images/modes/活动名称_红松林.png",
-              "stages": []
-            },
-            {
               "name": "多索雷斯假日",
               "img": "images/modes/活动名称_多索雷斯假日.png",
               "stages": [
@@ -1786,21 +1519,6 @@
                   "solutions": 1
                 }
               ]
-            },
-            {
-              "name": "如我所见",
-              "img": "images/modes/活动名称_如我所见.png",
-              "stages": [
-                {
-                  "code": "VIDE",
-                  "solutions": 1
-                }
-              ]
-            },
-            {
-              "name": "灯火序曲",
-              "img": "images/modes/活动名称_灯火序曲.png",
-              "stages": []
             },
             {
               "name": "覆潮之下",
@@ -1925,11 +1643,6 @@
                   "solutions": 1
                 }
               ]
-            },
-            {
-              "name": "此地之外",
-              "img": "images/modes/活动名称_此地之外.png",
-              "stages": []
             }
           ]
         },
@@ -2011,11 +1724,6 @@
                   "solutions": 2
                 }
               ]
-            },
-            {
-              "name": "踏寻往昔之风",
-              "img": "images/modes/活动名称_踏寻往昔之风.png",
-              "stages": []
             },
             {
               "name": "密林悍将归来",
@@ -2106,48 +1814,6 @@
               ]
             },
             {
-              "name": "乌萨斯的孩子们",
-              "img": "images/modes/活动名称_乌萨斯的孩子们.png",
-              "stages": [
-                {
-                  "code": "SV-1",
-                  "solutions": 2
-                },
-                {
-                  "code": "SV-2",
-                  "solutions": 3
-                },
-                {
-                  "code": "SV-3",
-                  "solutions": 3
-                },
-                {
-                  "code": "SV-4",
-                  "solutions": 3
-                },
-                {
-                  "code": "SV-5",
-                  "solutions": 3
-                },
-                {
-                  "code": "SV-6",
-                  "solutions": 2
-                },
-                {
-                  "code": "SV-7",
-                  "solutions": 2
-                },
-                {
-                  "code": "SV-8",
-                  "solutions": 2
-                },
-                {
-                  "code": "SV-9",
-                  "solutions": 2
-                }
-              ]
-            },
-            {
               "name": "生于黑夜",
               "img": "images/modes/活动名称_生于黑夜.png",
               "stages": [
@@ -2184,16 +1850,6 @@
                   "solutions": 2
                 }
               ]
-            },
-            {
-              "name": "午间逸话",
-              "img": "images/modes/活动名称_午间逸话.png",
-              "stages": []
-            },
-            {
-              "name": "洪炉示岁",
-              "img": "images/modes/活动名称_洪炉示岁.png",
-              "stages": []
             }
           ]
         },
@@ -2245,11 +1901,6 @@
                   "solutions": 2
                 }
               ]
-            },
-            {
-              "name": "战地秘闻",
-              "img": "images/modes/活动名称_战地秘闻.png",
-              "stages": []
             },
             {
               "name": "火蓝之心",
@@ -2318,6 +1969,360 @@
                   "solutions": 2
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "story-set",
+      "name": "故事集",
+      "desc": "历次故事集活动关卡，收录于情报处理室。",
+      "groups": [
+        {
+          "name": "2026",
+          "items": [
+            {
+              "name": "丛林症结",
+              "img": "images/modes/活动名称_丛林症结.png",
+              "stages": [
+                {
+                  "code": "BD-1",
+                  "solutions": 4
+                },
+                {
+                  "code": "BD-2",
+                  "solutions": 4
+                },
+                {
+                  "code": "BD-3",
+                  "solutions": 5
+                },
+                {
+                  "code": "BD-4",
+                  "solutions": 4
+                },
+                {
+                  "code": "BD-5",
+                  "solutions": 4
+                },
+                {
+                  "code": "BD-6",
+                  "solutions": 3
+                },
+                {
+                  "code": "BD-7",
+                  "solutions": 3
+                },
+                {
+                  "code": "BD-8",
+                  "solutions": 7
+                }
+              ]
+            },
+            {
+              "name": "十字路口",
+              "img": "images/modes/活动名称_十字路口.png",
+              "stages": [
+                {
+                  "code": "CG2",
+                  "solutions": 1
+                },
+                {
+                  "code": "CG-1",
+                  "solutions": 4
+                },
+                {
+                  "code": "CG-2",
+                  "solutions": 2
+                },
+                {
+                  "code": "CG-3",
+                  "solutions": 3
+                },
+                {
+                  "code": "CG-4",
+                  "solutions": 3
+                },
+                {
+                  "code": "CG-5",
+                  "solutions": 3
+                },
+                {
+                  "code": "CG-6",
+                  "solutions": 3
+                },
+                {
+                  "code": "CG-7",
+                  "solutions": 3
+                },
+                {
+                  "code": "CG-8",
+                  "solutions": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2025",
+          "items": [
+            {
+              "name": "镜中集",
+              "img": "images/modes/活动名称_镜中集.png",
+              "stages": [
+                {
+                  "code": "FM-1",
+                  "solutions": 2
+                },
+                {
+                  "code": "FM-2",
+                  "solutions": 1
+                },
+                {
+                  "code": "FM-3",
+                  "solutions": 2
+                },
+                {
+                  "code": "FM-4",
+                  "solutions": 2
+                },
+                {
+                  "code": "FM-5",
+                  "solutions": 3
+                },
+                {
+                  "code": "FM-6",
+                  "solutions": 1
+                },
+                {
+                  "code": "FM-7",
+                  "solutions": 1
+                },
+                {
+                  "code": "FM-8",
+                  "solutions": 4
+                }
+              ]
+            },
+            {
+              "name": "我们明日见",
+              "img": "images/modes/活动名称_我们明日见.png",
+              "stages": [
+                {
+                  "code": "SE-1",
+                  "solutions": 4
+                },
+                {
+                  "code": "SE-2",
+                  "solutions": 1
+                },
+                {
+                  "code": "SE-3",
+                  "solutions": 2
+                },
+                {
+                  "code": "SE-4",
+                  "solutions": 1
+                },
+                {
+                  "code": "SE-5",
+                  "solutions": 1
+                },
+                {
+                  "code": "SE-6",
+                  "solutions": 1
+                },
+                {
+                  "code": "SE-7",
+                  "solutions": 2
+                },
+                {
+                  "code": "SE-8",
+                  "solutions": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2024",
+          "items": [
+            {
+              "name": "去咧嘴谷",
+              "img": "images/modes/活动名称_去咧嘴谷.png",
+              "stages": [
+                {
+                  "code": "TG-1",
+                  "solutions": 1
+                },
+                {
+                  "code": "TG-2",
+                  "solutions": 1
+                },
+                {
+                  "code": "TG-3",
+                  "solutions": 1
+                },
+                {
+                  "code": "TG-4",
+                  "solutions": 1
+                },
+                {
+                  "code": "TG-5",
+                  "solutions": 1
+                },
+                {
+                  "code": "TG-6",
+                  "solutions": 1
+                },
+                {
+                  "code": "TG-7",
+                  "solutions": 1
+                },
+                {
+                  "code": "TG-8",
+                  "solutions": 2
+                }
+              ]
+            },
+            {
+              "name": "熔炉\"还魂\"记",
+              "img": "images/modes/活动名称_熔炉“还魂”记.png",
+              "stages": [
+                {
+                  "code": "KR-1",
+                  "solutions": 1
+                },
+                {
+                  "code": "KR-2",
+                  "solutions": 1
+                },
+                {
+                  "code": "KR-3",
+                  "solutions": 1
+                },
+                {
+                  "code": "KR-4",
+                  "solutions": 1
+                },
+                {
+                  "code": "KR-5",
+                  "solutions": 1
+                },
+                {
+                  "code": "KR-6",
+                  "solutions": 1
+                },
+                {
+                  "code": "KR-7",
+                  "solutions": 1
+                },
+                {
+                  "code": "KR-8",
+                  "solutions": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2023",
+          "items": [
+            {
+              "name": "春分",
+              "img": "images/modes/活动名称_春分.png",
+              "stages": []
+            },
+            {
+              "name": "眠于树影之中",
+              "img": "images/modes/活动名称_眠于树影之中.png",
+              "stages": []
+            }
+          ]
+        },
+        {
+          "name": "2022",
+          "items": [
+            {
+              "name": "好久不见",
+              "img": "images/modes/活动名称_好久不见.png",
+              "stages": []
+            },
+            {
+              "name": "日暮寻路",
+              "img": "images/modes/活动名称_日暮寻路.png",
+              "stages": []
+            },
+            {
+              "name": "未尽篇章",
+              "img": "images/modes/活动名称_未尽篇章.png",
+              "stages": []
+            },
+            {
+              "name": "阴云火花",
+              "img": "images/modes/活动名称_阴云火花.png",
+              "stages": []
+            }
+          ]
+        },
+        {
+          "name": "2021",
+          "items": [
+            {
+              "name": "红松林",
+              "img": "images/modes/活动名称_红松林.png",
+              "stages": []
+            },
+            {
+              "name": "如我所见",
+              "img": "images/modes/活动名称_如我所见.png",
+              "stages": []
+            },
+            {
+              "name": "灯火序曲",
+              "img": "images/modes/活动名称_灯火序曲.png",
+              "stages": []
+            },
+            {
+              "name": "此地之外",
+              "img": "images/modes/活动名称_此地之外.png",
+              "stages": []
+            }
+          ]
+        },
+        {
+          "name": "2020",
+          "items": [
+            {
+              "name": "踏寻往昔之风",
+              "img": "images/modes/活动名称_踏寻往昔之风.png",
+              "stages": []
+            },
+            {
+              "name": "乌萨斯的孩子们",
+              "img": "images/modes/活动名称_乌萨斯的孩子们.png",
+              "stages": []
+            },
+            {
+              "name": "午间逸话",
+              "img": "images/modes/活动名称_午间逸话.png",
+              "stages": []
+            },
+            {
+              "name": "洪炉示岁",
+              "img": "images/modes/活动名称_洪炉示岁.png",
+              "stages": []
+            }
+          ]
+        },
+        {
+          "name": "2019",
+          "items": [
+            {
+              "name": "战地秘闻",
+              "img": "images/modes/活动名称_战地秘闻.png",
+              "stages": []
             }
           ]
         }
