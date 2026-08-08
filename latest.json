@@ -11,13 +11,13 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 9837,
-        "danmaku": 6,
-        "review": 24,
-        "favorite": 76,
-        "like": 305
+        "play": 14910,
+        "danmaku": 9,
+        "review": 34,
+        "favorite": 109,
+        "like": 393
       },
-      "duration": "12:49",
+      "duration": "18:5",
       "typename": "手机游戏",
       "tags": [
         "明日方舟创作者应援计划",
@@ -33,7 +33,7 @@
       "pages": [
         {
           "page": 1,
-          "part": "TO-EX-1突袭 初雪双人",
+          "part": "TO-EX-1突袭 初雪2人",
           "duration": 158
         },
         {
@@ -48,11 +48,16 @@
         },
         {
           "page": 4,
-          "part": "TO-EX-5突袭 初雪双人",
+          "part": "TO-EX-5突袭 初雪2人",
           "duration": 138
         },
         {
           "page": 5,
+          "part": "TO-EX-7突袭 望6人（非挂机）",
+          "duration": 316
+        },
+        {
+          "page": 6,
           "part": "（视频有误，不用看）",
           "duration": 165
         }
@@ -68,13 +73,13 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 10101,
-        "danmaku": 2,
-        "review": 21,
-        "favorite": 41,
-        "like": 218
+        "play": 15190,
+        "danmaku": 5,
+        "review": 28,
+        "favorite": 60,
+        "like": 295
       },
-      "duration": "31:27",
+      "duration": "36:47",
       "typename": "手机游戏",
       "tags": [
         "明日方舟创作者应援计划",
@@ -110,7 +115,7 @@
         },
         {
           "page": 5,
-          "part": "TO-EX-4突袭 斩熊 涂鸦 初雪 黍",
+          "part": "TO-EX-4突袭 斩熊 大姨 初雪 黍",
           "duration": 156
         },
         {
@@ -125,21 +130,31 @@
         },
         {
           "page": 8,
+          "part": "TO-EX-6突袭 祥子 初雪 凛冬 塑心",
+          "duration": 163
+        },
+        {
+          "page": 9,
+          "part": "TO-EX-6突袭 祥子 初雪 凛冬 马鹿",
+          "duration": 157
+        },
+        {
+          "page": 10,
           "part": "TO-EX-7突袭 大姨 初雪 黍",
           "duration": 146
         },
         {
-          "page": 9,
+          "page": 11,
           "part": "TO-EX-8突袭 大姨 遥 天猫 初雪",
           "duration": 278
         },
         {
-          "page": 10,
+          "page": 12,
           "part": "（视频有误，不用看）",
           "duration": 165
         },
         {
-          "page": 11,
+          "page": 13,
           "part": "（视频有误，不用看）",
           "duration": 160
         }
@@ -155,11 +170,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 25456,
+        "play": 25549,
         "danmaku": 20,
         "review": 142,
         "favorite": 261,
-        "like": 855
+        "like": 856
       },
       "duration": "23:54",
       "typename": "手机游戏",
@@ -198,7 +213,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 24983,
+        "play": 25009,
         "danmaku": 5,
         "review": 89,
         "favorite": 76,
@@ -296,11 +311,11 @@
       },
       "description": "激情攻略中\n特别鸣谢23322311 对TO-5的优化建议",
       "stat": {
-        "play": 102710,
+        "play": 103098,
         "danmaku": 54,
         "review": 525,
-        "favorite": 605,
-        "like": 1287
+        "favorite": 606,
+        "like": 1288
       },
       "duration": "68:24",
       "typename": "手机游戏",
@@ -424,11 +439,11 @@
       },
       "description": "攻略：TISN,小蜘蛛 雅米\n封面：dlt",
       "stat": {
-        "play": 42431,
+        "play": 42476,
         "danmaku": 169,
         "review": 133,
-        "favorite": 442,
-        "like": 1769
+        "favorite": 445,
+        "like": 1772
       },
       "duration": "3:21",
       "typename": "手机游戏",
@@ -461,7 +476,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 44056,
+        "play": 44074,
         "danmaku": 17,
         "review": 155,
         "favorite": 296,
@@ -508,10 +523,10 @@
       },
       "description": "后期：乌冬\n封面：@绛音ジャイイン",
       "stat": {
-        "play": 59800,
+        "play": 59828,
         "danmaku": 56,
         "review": 273,
-        "favorite": 946,
+        "favorite": 948,
         "like": 2178
       },
       "duration": "5:47",
@@ -545,7 +560,7 @@
       },
       "description": "攻略：绿茶，小蜘蛛，雅米\n封面：微波炉",
       "stat": {
-        "play": 50053,
+        "play": 50054,
         "danmaku": 23,
         "review": 50,
         "favorite": 171,
@@ -668,7 +683,7 @@
       },
       "description": "攻略：仙人、何琐、夏谷梦璃、雅米\n封面：微波炉",
       "stat": {
-        "play": 227122,
+        "play": 227127,
         "danmaku": 114,
         "review": 516,
         "favorite": 1179,
@@ -841,7 +856,7 @@
       },
       "description": "脚本制作：黑流树海的狗，TISN，仙人\n注意事项：不要凌晨3-4点挂！\n脚本下载链接：https://pan.quark.cn/s/8bdad70d77c3",
       "stat": {
-        "play": 20476,
+        "play": 20495,
         "danmaku": 2,
         "review": 76,
         "favorite": 364,
@@ -879,11 +894,11 @@
       },
       "description": "本期视频是“黑流树海”肉鸽逃课速刷攻略。该方法注册即可使用，无需练度且不需要了解太多敌人机制，即可轻松刷满经验值。完成前置任务后，速刷单局用时四分钟左右，操作简单，十分容易上手。\n\n视频的分P是本期视频中提到的速刷方法所配套的三层和五层BOSS的打法，各位博士可以按需观看。\n\n攻略：黑流树海的狗，yami\n后期：乌冬\n配音：乌冬\n封面：@绛音ジャイイン",
       "stat": {
-        "play": 203947,
+        "play": 204121,
         "danmaku": 434,
         "review": 567,
-        "favorite": 6277,
-        "like": 5381
+        "favorite": 6284,
+        "like": 5385
       },
       "duration": "31:13",
       "typename": "手机游戏",
@@ -942,7 +957,7 @@
       },
       "description": "注意开局藏品选择\n\n攻略：夜半梦醒、Tisn、仙人、硬币、风澪锦、XIE、鱼鱼\n封面：Lne牙不痛了\n在此感谢所有参与的攻略者以及后期、封面等成员对本期攻略的贡献。",
       "stat": {
-        "play": 63635,
+        "play": 63663,
         "danmaku": 45,
         "review": 218,
         "favorite": 369,
@@ -1110,7 +1125,7 @@
       },
       "description": "攻略：仙人、DLT、雅米、硬币\n封面：sampler\n在此感谢所有参与的攻略者以及后期、封面等成员对本期攻略的贡献。",
       "stat": {
-        "play": 17428,
+        "play": 17434,
         "danmaku": 6,
         "review": 52,
         "favorite": 134,
@@ -1290,7 +1305,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 63439,
+        "play": 63440,
         "danmaku": 29,
         "review": 82,
         "favorite": 360,
@@ -1754,7 +1769,7 @@
       },
       "description": "攻略：总之就是个npc\n解说：乌冬\n后期：乌冬\n封面：迪和替补",
       "stat": {
-        "play": 64139,
+        "play": 64140,
         "danmaku": 199,
         "review": 708,
         "favorite": 1630,
@@ -2027,7 +2042,7 @@
       },
       "description": "遥第一波技能晚点开，不然初雪会死\n攻略：小蜘蛛，摸鱼",
       "stat": {
-        "play": 66394,
+        "play": 66395,
         "danmaku": 21,
         "review": 283,
         "favorite": 650,
@@ -2582,7 +2597,7 @@
       },
       "description": "雷电/MuMu脚本下载：\n\n我用夸克网盘给你分享了「阵地足球逃课」，点击链接或复制整段内容，打开「夸克APP」即可获取。\n/~a90d3YyQkZ~:/\n链接：https://pan.quark.cn/s/4320238679ea\n\n全关卡讲解攻略请移步：BV1DxEm6vEtx\n\n脚本制作：雅米，凹过了\n后期/配音：乌冬\n封面：DLT",
       "stat": {
-        "play": 106365,
+        "play": 106366,
         "danmaku": 6,
         "review": 219,
         "favorite": 1095,
@@ -2617,7 +2632,7 @@
       },
       "description": "激情攻略中\n注意TD-EX-5普通关的任务需要单独做",
       "stat": {
-        "play": 100517,
+        "play": 100518,
         "danmaku": 38,
         "review": 184,
         "favorite": 371,
@@ -3149,10 +3164,10 @@
       },
       "description": "本攻略中只选择了部分能提高通关效率的科技树进行加点，实际游玩过程可以将天赋树点满，以获得更好的游戏体验。\n\n攻略内容为保下限玩法，仅为帮助萌新博士用较低的练度快速获取资源奖励，不代表本关最优打法。\n\n部分支线关卡如RA-B-2、RA-C-2因低配打法较为公式化，无法打出原创性内容，有需要的博士可以移步别家攻略。\n\nEX、SUB关卡，由于地形和任务相对随机，且获取代币的效率不如重复刷取前面的关卡，因此没有制作相关攻略内容。\n\n需要速刷代币，可以跳转视频：【明日方舟】生息演算“重启锚点”终极逃课｜全练度适配！",
       "stat": {
-        "play": 15686,
+        "play": 15687,
         "danmaku": 2,
         "review": 24,
-        "favorite": 189,
+        "favorite": 188,
         "like": 541
       },
       "duration": "169:4",
@@ -3500,7 +3515,7 @@
       },
       "description": "打完MT-1后记得出去领任务再打",
       "stat": {
-        "play": 171200,
+        "play": 171202,
         "danmaku": 79,
         "review": 198,
         "favorite": 606,
@@ -3668,10 +3683,10 @@
       },
       "description": "本期视频为生息演算“重启锚点”的双毕业基建攻略，提供了两种不同的基建思路。\nP1适合需要长线游玩、拉满收益的博士们；P2适合只想要速通拿奖励的博士们。两种方式均可将基地等级升到12级拿满奖励，各位博士按照自己的需求二选一即可。\n\n基建设计：湾塔\n配音：乌冬\n后期：乌冬",
       "stat": {
-        "play": 136617,
+        "play": 136633,
         "danmaku": 53,
         "review": 245,
-        "favorite": 3566,
+        "favorite": 3565,
         "like": 3686
       },
       "duration": "22:31",
@@ -3711,11 +3726,11 @@
       },
       "description": "本次速刷攻略我们为大家提供了三套速刷方案，分别使用RA-4、RA-15和支线RA-C-1这三个关卡来进行代币的刷取。大家可以根据自己的账号情况和实际需求，选择最适合自己的方案来搬空商店奖励。\n另外，本次视频我们也首次尝试使用语音详解一条龙的形式进行，大家对新形式有任何意见或建议也欢迎在评论区提出~\n\n策划经营战术倾向解锁思路来源：\n【新生息最强干员竟是苇草？超轮椅无限连爆刷稻谷！无限赤金？！】 https://www.bilibili.com/video/BV1bv5e67E3i\n\n生息演算手机端连点器（",
       "stat": {
-        "play": 349126,
+        "play": 349155,
         "danmaku": 690,
         "review": 951,
-        "favorite": 3312,
-        "like": 4466
+        "favorite": 3313,
+        "like": 4467
       },
       "duration": "153:23",
       "typename": "手机游戏",
@@ -3899,11 +3914,11 @@
       },
       "description": "本攻略适用于需要快速刷取代币的博士，若队伍中有初雪、娜仁图亚等能快速清虫子的干员，可以跳过借助战环节，直接进行速刷。\n所有前置关卡的攻略已经全部更新完毕，本次用到的干员为夜刀（任意快活）、黑角（任意高练重装）、伊桑（提供攻击次数）、调香师（高练度奶妈，最好选择群奶）、克洛丝（强力输出干员）、特限佩佩。并且攻略中基本没有升级科技点，也没有使用任何食物，推进各位博士在推进主线的过程中，同步升级科技点，可以有效降低难度。\n\n策划经营战术倾向解锁思路来源：\n【新生息最强干员竟是苇草？超轮椅无限连爆刷稻谷！无限赤金",
       "stat": {
-        "play": 298556,
+        "play": 298596,
         "danmaku": 108,
         "review": 835,
-        "favorite": 6453,
-        "like": 5945
+        "favorite": 6455,
+        "like": 5946
       },
       "duration": "146:3",
       "typename": "手机游戏",
@@ -4072,7 +4087,7 @@
       },
       "description": "策划经营战术倾向解锁思路来源：\n【新生息最强干员竟是苇草？超轮椅无限连爆刷稻谷！无限赤金？！】 https://www.bilibili.com/video/BV1bv5e67E3i",
       "stat": {
-        "play": 45676,
+        "play": 45679,
         "danmaku": 12,
         "review": 237,
         "favorite": 606,
@@ -4230,11 +4245,11 @@
       },
       "description": "",
       "stat": {
-        "play": 351269,
+        "play": 351306,
         "danmaku": 717,
         "review": 3201,
         "favorite": 2376,
-        "like": 19723
+        "like": 19724
       },
       "duration": "13:59",
       "typename": "手机游戏",
@@ -39982,8 +39997,8 @@
     }
   ],
   "stats": {
-    "fans": 193389,
+    "fans": 193410,
     "videos": 530,
-    "likes": 1185481
+    "likes": 1185677
   }
 }
