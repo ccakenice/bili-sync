@@ -11,11 +11,11 @@
       },
       "description": "攻略：Lumos、雅米、乌冬\n后期、解说：乌冬\n封面：DLT",
       "stat": {
-        "play": 11054,
-        "danmaku": 41,
-        "review": 96,
-        "favorite": 237,
-        "like": 914
+        "play": 15637,
+        "danmaku": 67,
+        "review": 123,
+        "favorite": 295,
+        "like": 1178
       },
       "duration": "37:54",
       "typename": "手机游戏",
@@ -49,11 +49,11 @@
       },
       "description": "攻略：Lumos、雅米 \n后期、解说：乌冬\n封面：DLT",
       "stat": {
-        "play": 28193,
-        "danmaku": 31,
-        "review": 120,
-        "favorite": 481,
-        "like": 1387
+        "play": 30892,
+        "danmaku": 51,
+        "review": 138,
+        "favorite": 518,
+        "like": 1508
       },
       "duration": "32:56",
       "typename": "手机游戏",
@@ -92,11 +92,11 @@
       },
       "description": "攻略：XIE 小咸鱼 DLT\n封面：DLT",
       "stat": {
-        "play": 38906,
+        "play": 39912,
         "danmaku": 23,
         "review": 75,
         "favorite": 88,
-        "like": 726
+        "like": 739
       },
       "duration": "25:8",
       "typename": "手机游戏",
@@ -149,11 +149,11 @@
       },
       "description": "攻略：芃草 鳝丝 空灵 小咸鱼 Tisn DLT 夏谷梦璃\n封面：DLT",
       "stat": {
-        "play": 76489,
+        "play": 79731,
         "danmaku": 48,
         "review": 167,
-        "favorite": 254,
-        "like": 935
+        "favorite": 256,
+        "like": 959
       },
       "duration": "76:15",
       "typename": "手机游戏",
@@ -241,11 +241,11 @@
       },
       "description": "针对上一期视频（BV1tZum63E5h）评论区内各位博士的种种疑问，我们制作了本期答疑视频，把评论区内的多数问题都整合在了本期视频内。\n最后为大家附上MuMu模拟器挂机速刷的脚本，方便各位博士使用。\n\n脚本下载链接：https://pan.quark.cn/s/9a5e93477e0d",
       "stat": {
-        "play": 34251,
+        "play": 35071,
         "danmaku": 25,
         "review": 56,
-        "favorite": 559,
-        "like": 1153
+        "favorite": 567,
+        "like": 1170
       },
       "duration": "7:3",
       "typename": "手机游戏",
@@ -279,13 +279,13 @@
       },
       "description": "活动开启时间：2026年8月8日18:00~2026年9月4日03:59\n本次活动想要拿满全部奖励，至少需要登陆5天，且在8月18日更新后登陆3天。\n因此请一定要在8月30日前开始做任务！！请一定要在8月30日前开始做任务！！请一定要在8月30日前开始做任务！！\n\n攻略：能工智人\n后期、解说：乌冬",
       "stat": {
-        "play": 192031,
-        "danmaku": 260,
-        "review": 585,
-        "favorite": 5291,
-        "like": 6326
+        "play": 200945,
+        "danmaku": 270,
+        "review": 583,
+        "favorite": 5425,
+        "like": 6539
       },
-      "duration": "37:37",
+      "duration": "44:18",
       "typename": "手机游戏",
       "tags": [
         "奇象巡展",
@@ -302,13 +302,18 @@
       "pages": [
         {
           "page": 1,
-          "part": "半小时带你拿完「奇象巡展」全部奖励！全程跟跑流程",
+          "part": "P1 「奇象巡展」全程跟跑流程",
           "duration": 2120
         },
         {
           "page": 2,
-          "part": "补充：画像展示册收集——奇象收集师",
+          "part": "P2 补充：画像展示册收集——奇象收集师",
           "duration": 137
+        },
+        {
+          "page": 3,
+          "part": "P3 8月18日更新任务讲解",
+          "duration": 401
         }
       ]
     },
@@ -322,11 +327,11 @@
       },
       "description": "攻略：安宁 小咸鱼 梅 季若 燃烧瓶 硬币 何琐 仙人 夏谷梦璃 Tisn\n封面：DLT",
       "stat": {
-        "play": 79844,
+        "play": 81562,
         "danmaku": 42,
         "review": 135,
-        "favorite": 330,
-        "like": 1035
+        "favorite": 329,
+        "like": 1048
       },
       "duration": "80:56",
       "typename": "手机游戏",
@@ -444,11 +449,11 @@
       },
       "description": "攻略：小咸鱼 玄青 DLT\n封面：DLT",
       "stat": {
-        "play": 41146,
+        "play": 41421,
         "danmaku": 8,
         "review": 47,
         "favorite": 94,
-        "like": 605
+        "like": 607
       },
       "duration": "39:41",
       "typename": "手机游戏",
@@ -546,11 +551,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 35739,
-        "danmaku": 31,
-        "review": 172,
-        "favorite": 342,
-        "like": 1120
+        "play": 37220,
+        "danmaku": 33,
+        "review": 181,
+        "favorite": 348,
+        "like": 1200
       },
       "duration": "23:54",
       "typename": "手机游戏",
@@ -589,11 +594,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 26581,
+        "play": 26686,
         "danmaku": 5,
         "review": 89,
-        "favorite": 77,
-        "like": 618
+        "favorite": 78,
+        "like": 619
       },
       "duration": "34:46",
       "typename": "手机游戏",
@@ -687,11 +692,11 @@
       },
       "description": "激情攻略中\n特别鸣谢23322311 对TO-5的优化建议",
       "stat": {
-        "play": 120106,
+        "play": 121031,
         "danmaku": 57,
         "review": 569,
-        "favorite": 655,
-        "like": 1450
+        "favorite": 656,
+        "like": 1460
       },
       "duration": "68:24",
       "typename": "手机游戏",
@@ -815,11 +820,11 @@
       },
       "description": "攻略：TISN,小蜘蛛 雅米\n封面：dlt",
       "stat": {
-        "play": 47387,
+        "play": 47771,
         "danmaku": 177,
         "review": 138,
-        "favorite": 486,
-        "like": 1842
+        "favorite": 487,
+        "like": 1850
       },
       "duration": "3:21",
       "typename": "手机游戏",
@@ -852,11 +857,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 45572,
+        "play": 45656,
         "danmaku": 17,
         "review": 156,
-        "favorite": 294,
-        "like": 1445
+        "favorite": 295,
+        "like": 1448
       },
       "duration": "36:7",
       "typename": "手机游戏",
@@ -899,11 +904,11 @@
       },
       "description": "后期：乌冬\n封面：@绛音ジャイイン",
       "stat": {
-        "play": 66131,
-        "danmaku": 61,
-        "review": 281,
-        "favorite": 1016,
-        "like": 2314
+        "play": 66561,
+        "danmaku": 62,
+        "review": 282,
+        "favorite": 1020,
+        "like": 2323
       },
       "duration": "5:47",
       "typename": "手机游戏",
@@ -936,7 +941,7 @@
       },
       "description": "攻略：绿茶，小蜘蛛，雅米\n封面：微波炉",
       "stat": {
-        "play": 50155,
+        "play": 50159,
         "danmaku": 23,
         "review": 50,
         "favorite": 169,
@@ -1059,11 +1064,11 @@
       },
       "description": "攻略：仙人、何琐、夏谷梦璃、雅米\n封面：微波炉",
       "stat": {
-        "play": 227769,
+        "play": 227817,
         "danmaku": 114,
         "review": 517,
         "favorite": 1163,
-        "like": 2397
+        "like": 2398
       },
       "duration": "98:40",
       "typename": "手机游戏",
@@ -1232,11 +1237,11 @@
       },
       "description": "脚本制作：黑流树海的狗，TISN，仙人\n注意事项：不要凌晨3-4点挂！\n脚本下载链接：https://pan.quark.cn/s/8bdad70d77c3",
       "stat": {
-        "play": 23950,
+        "play": 24218,
         "danmaku": 2,
         "review": 77,
-        "favorite": 430,
-        "like": 878
+        "favorite": 434,
+        "like": 879
       },
       "duration": "3:14",
       "typename": "手机游戏",
@@ -1270,11 +1275,11 @@
       },
       "description": "本期视频是“黑流树海”肉鸽逃课速刷攻略。该方法注册即可使用，无需练度且不需要了解太多敌人机制，即可轻松刷满经验值。完成前置任务后，速刷单局用时四分钟左右，操作简单，十分容易上手。\n\n视频的分P是本期视频中提到的速刷方法所配套的三层和五层BOSS的打法，各位博士可以按需观看。\n\n攻略：黑流树海的狗，yami\n后期：乌冬\n配音：乌冬\n封面：@绛音ジャイイン",
       "stat": {
-        "play": 246441,
-        "danmaku": 474,
-        "review": 695,
-        "favorite": 7542,
-        "like": 6303
+        "play": 250838,
+        "danmaku": 477,
+        "review": 704,
+        "favorite": 7667,
+        "like": 6382
       },
       "duration": "24:37",
       "typename": "手机游戏",
@@ -1328,11 +1333,11 @@
       },
       "description": "注意开局藏品选择\n\n攻略：夜半梦醒、Tisn、仙人、硬币、风澪锦、XIE、鱼鱼\n封面：Lne牙不痛了\n在此感谢所有参与的攻略者以及后期、封面等成员对本期攻略的贡献。",
       "stat": {
-        "play": 69541,
+        "play": 70003,
         "danmaku": 47,
         "review": 221,
-        "favorite": 402,
-        "like": 2015
+        "favorite": 406,
+        "like": 2020
       },
       "duration": "107:58",
       "typename": "手机游戏",
@@ -1496,11 +1501,11 @@
       },
       "description": "攻略：仙人、DLT、雅米、硬币\n封面：sampler\n在此感谢所有参与的攻略者以及后期、封面等成员对本期攻略的贡献。",
       "stat": {
-        "play": 19139,
+        "play": 19272,
         "danmaku": 6,
         "review": 52,
-        "favorite": 146,
-        "like": 746
+        "favorite": 144,
+        "like": 745
       },
       "duration": "70:24",
       "typename": "手机游戏",
@@ -1639,11 +1644,11 @@
       },
       "description": "",
       "stat": {
-        "play": 10656,
+        "play": 10698,
         "danmaku": 2,
         "review": 27,
         "favorite": 54,
-        "like": 516
+        "like": 517
       },
       "duration": "3:58",
       "typename": "手机游戏",
@@ -1676,10 +1681,10 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 63510,
+        "play": 63515,
         "danmaku": 29,
         "review": 82,
-        "favorite": 358,
+        "favorite": 357,
         "like": 1148
       },
       "duration": "46:17",
@@ -1794,7 +1799,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 37007,
+        "play": 37018,
         "danmaku": 25,
         "review": 55,
         "favorite": 181,
@@ -1940,7 +1945,7 @@
       },
       "description": "-",
       "stat": {
-        "play": 80564,
+        "play": 80566,
         "danmaku": 35,
         "review": 412,
         "favorite": 499,
@@ -1978,7 +1983,7 @@
       },
       "description": "攻略：苏梦 仙人",
       "stat": {
-        "play": 20666,
+        "play": 20667,
         "danmaku": 2,
         "review": 53,
         "favorite": 95,
@@ -2016,7 +2021,7 @@
       },
       "description": "攻略：乌冬\n解说：乌冬\n后期：乌冬\n封面：迪",
       "stat": {
-        "play": 25123,
+        "play": 25127,
         "danmaku": 25,
         "review": 113,
         "favorite": 326,
@@ -2054,7 +2059,7 @@
       },
       "description": "攻略：苏梦",
       "stat": {
-        "play": 23478,
+        "play": 23479,
         "danmaku": 5,
         "review": 43,
         "favorite": 117,
@@ -2092,10 +2097,10 @@
       },
       "description": "攻略：总之就是个npc，仙人，雅米，安宁\n优化：乌冬\n解说：乌冬\n后期：乌冬\n封面：迪\n翻译：司麒",
       "stat": {
-        "play": 76124,
+        "play": 76128,
         "danmaku": 55,
         "review": 339,
-        "favorite": 1100,
+        "favorite": 1098,
         "like": 2430
       },
       "duration": "35:22",
@@ -2140,7 +2145,7 @@
       },
       "description": "攻略：总之就是个npc\n解说：乌冬\n后期：乌冬\n封面：迪和替补",
       "stat": {
-        "play": 64196,
+        "play": 64202,
         "danmaku": 199,
         "review": 708,
         "favorite": 1614,
@@ -2215,7 +2220,7 @@
       },
       "description": "攻略：总之就是个npc\n解说：乌冬\n后期：乌冬\n封面：迪和替补",
       "stat": {
-        "play": 74413,
+        "play": 74414,
         "danmaku": 152,
         "review": 701,
         "favorite": 2129,
@@ -2299,7 +2304,7 @@
         "danmaku": 27,
         "review": 98,
         "favorite": 191,
-        "like": 1020
+        "like": 1019
       },
       "duration": "8:1",
       "typename": "手机游戏",
@@ -2337,10 +2342,10 @@
       },
       "description": "攻略：湾塔\n封面：迪",
       "stat": {
-        "play": 69215,
+        "play": 69220,
         "danmaku": 45,
         "review": 311,
-        "favorite": 1223,
+        "favorite": 1220,
         "like": 2407
       },
       "duration": "3:32",
@@ -2375,10 +2380,10 @@
       },
       "description": "-",
       "stat": {
-        "play": 68730,
+        "play": 68735,
         "danmaku": 45,
         "review": 409,
-        "favorite": 1121,
+        "favorite": 1118,
         "like": 2641
       },
       "duration": "3:19",
@@ -2413,7 +2418,7 @@
       },
       "description": "遥第一波技能晚点开，不然初雪会死\n攻略：小蜘蛛，摸鱼",
       "stat": {
-        "play": 66416,
+        "play": 66417,
         "danmaku": 21,
         "review": 283,
         "favorite": 649,
@@ -2513,10 +2518,10 @@
       },
       "description": "攻略：东方\n优化：乌冬\n封面：迪",
       "stat": {
-        "play": 511371,
+        "play": 511377,
         "danmaku": 221,
         "review": 1750,
-        "favorite": 10646,
+        "favorite": 10641,
         "like": 15558
       },
       "duration": "7:57",
@@ -2559,7 +2564,7 @@
         "play": 50505,
         "danmaku": 24,
         "review": 285,
-        "favorite": 359,
+        "favorite": 358,
         "like": 1160
       },
       "duration": "6:42",
@@ -2604,10 +2609,10 @@
       },
       "description": "激情攻略中\n封面：CMSK",
       "stat": {
-        "play": 81954,
+        "play": 81955,
         "danmaku": 14,
         "review": 137,
-        "favorite": 306,
+        "favorite": 305,
         "like": 939
       },
       "duration": "56:31",
@@ -2737,7 +2742,7 @@
       },
       "description": "激情攻略中\n封面：CMSK",
       "stat": {
-        "play": 38887,
+        "play": 38888,
         "danmaku": 12,
         "review": 19,
         "favorite": 125,
@@ -2870,10 +2875,10 @@
       },
       "description": "本期攻略为全关卡、全蚀刻章单核攻略，蚀刻章镀层需完成PF1~7和PF-S-1一共八关，其余关卡仅做通关打法分享。部分关卡的随机性比较大，但经过测试，95%以上的概率都可以用。实在随机到特别难的关卡直接重开就行了。开EX关后也会更新在最新的分P。\n\nPF-3、PF-4关卡梓兰思路参考：BV1TXEG6cEnh\n\n攻略：苏梦 乌冬\n后期/配音：乌冬\n封面：DLT",
       "stat": {
-        "play": 549126,
+        "play": 549131,
         "danmaku": 357,
         "review": 1241,
-        "favorite": 2481,
+        "favorite": 2479,
         "like": 12734
       },
       "duration": "46:7",
@@ -2968,10 +2973,10 @@
       },
       "description": "雷电/MuMu脚本下载：\n\n我用夸克网盘给你分享了「阵地足球逃课」，点击链接或复制整段内容，打开「夸克APP」即可获取。\n/~a90d3YyQkZ~:/\n链接：https://pan.quark.cn/s/4320238679ea\n\n全关卡讲解攻略请移步：BV1DxEm6vEtx\n\n脚本制作：雅米，凹过了\n后期/配音：乌冬\n封面：DLT",
       "stat": {
-        "play": 106385,
+        "play": 106386,
         "danmaku": 6,
         "review": 219,
-        "favorite": 1090,
+        "favorite": 1089,
         "like": 2457
       },
       "duration": "3:35",
@@ -3003,10 +3008,10 @@
       },
       "description": "激情攻略中\n注意TD-EX-5普通关的任务需要单独做",
       "stat": {
-        "play": 100532,
+        "play": 100533,
         "danmaku": 38,
         "review": 184,
-        "favorite": 371,
+        "favorite": 370,
         "like": 1126
       },
       "duration": "88:51",
@@ -3156,7 +3161,7 @@
       },
       "description": "激情攻略中\n注意TD-EX-5普通关的任务需要单独做",
       "stat": {
-        "play": 25633,
+        "play": 25634,
         "danmaku": 8,
         "review": 22,
         "favorite": 142,
@@ -3292,7 +3297,7 @@
         "play": 50083,
         "danmaku": 12,
         "review": 118,
-        "favorite": 232,
+        "favorite": 231,
         "like": 849
       },
       "duration": "72:19",
@@ -3535,10 +3540,10 @@
       },
       "description": "本攻略中只选择了部分能提高通关效率的科技树进行加点，实际游玩过程可以将天赋树点满，以获得更好的游戏体验。\n\n攻略内容为保下限玩法，仅为帮助萌新博士用较低的练度快速获取资源奖励，不代表本关最优打法。\n\n部分支线关卡如RA-B-2、RA-C-2因低配打法较为公式化，无法打出原创性内容，有需要的博士可以移步别家攻略。\n\nEX、SUB关卡，由于地形和任务相对随机，且获取代币的效率不如重复刷取前面的关卡，因此没有制作相关攻略内容。\n\n需要速刷代币，可以跳转视频：【明日方舟】生息演算“重启锚点”终极逃课｜全练度适配！",
       "stat": {
-        "play": 16748,
-        "danmaku": 2,
+        "play": 16903,
+        "danmaku": 3,
         "review": 25,
-        "favorite": 195,
+        "favorite": 198,
         "like": 551
       },
       "duration": "169:4",
@@ -3708,10 +3713,10 @@
       },
       "description": "打完MT-1后记得出去领任务再打",
       "stat": {
-        "play": 96454,
+        "play": 96457,
         "danmaku": 41,
         "review": 95,
-        "favorite": 319,
+        "favorite": 318,
         "like": 1112
       },
       "duration": "74:10",
@@ -3886,10 +3891,10 @@
       },
       "description": "打完MT-1后记得出去领任务再打",
       "stat": {
-        "play": 171600,
+        "play": 171627,
         "danmaku": 79,
         "review": 198,
-        "favorite": 607,
+        "favorite": 606,
         "like": 1332
       },
       "duration": "73:17",
@@ -4054,11 +4059,11 @@
       },
       "description": "本期视频为生息演算“重启锚点”的双毕业基建攻略，提供了两种不同的基建思路。\nP1适合需要长线游玩、拉满收益的博士们；P2适合只想要速通拿奖励的博士们。两种方式均可将基地等级升到12级拿满奖励，各位博士按照自己的需求二选一即可。\n\n基建设计：湾塔\n配音：乌冬\n后期：乌冬",
       "stat": {
-        "play": 141352,
+        "play": 142310,
         "danmaku": 55,
         "review": 252,
-        "favorite": 3647,
-        "like": 3781
+        "favorite": 3672,
+        "like": 3807
       },
       "duration": "22:31",
       "typename": "手机游戏",
@@ -4097,11 +4102,11 @@
       },
       "description": "本次速刷攻略我们为大家提供了三套速刷方案，分别使用RA-4、RA-15和支线RA-C-1这三个关卡来进行代币的刷取。大家可以根据自己的账号情况和实际需求，选择最适合自己的方案来搬空商店奖励。\n另外，本次视频我们也首次尝试使用语音详解一条龙的形式进行，大家对新形式有任何意见或建议也欢迎在评论区提出~\n\n策划经营战术倾向解锁思路来源：\n【新生息最强干员竟是苇草？超轮椅无限连爆刷稻谷！无限赤金？！】 https://www.bilibili.com/video/BV1bv5e67E3i\n\n生息演算手机端连点器（",
       "stat": {
-        "play": 358116,
-        "danmaku": 707,
-        "review": 965,
-        "favorite": 3386,
-        "like": 4546
+        "play": 360202,
+        "danmaku": 712,
+        "review": 973,
+        "favorite": 3409,
+        "like": 4567
       },
       "duration": "153:23",
       "typename": "手机游戏",
@@ -4285,11 +4290,11 @@
       },
       "description": "本攻略适用于需要快速刷取代币的博士，若队伍中有初雪、娜仁图亚等能快速清虫子的干员，可以跳过借助战环节，直接进行速刷。\n所有前置关卡的攻略已经全部更新完毕，本次用到的干员为夜刀（任意快活）、黑角（任意高练重装）、伊桑（提供攻击次数）、调香师（高练度奶妈，最好选择群奶）、克洛丝（强力输出干员）、特限佩佩。并且攻略中基本没有升级科技点，也没有使用任何食物，推进各位博士在推进主线的过程中，同步升级科技点，可以有效降低难度。\n\n策划经营战术倾向解锁思路来源：\n【新生息最强干员竟是苇草？超轮椅无限连爆刷稻谷！无限赤金",
       "stat": {
-        "play": 309273,
-        "danmaku": 124,
-        "review": 865,
-        "favorite": 6606,
-        "like": 6068
+        "play": 311605,
+        "danmaku": 126,
+        "review": 872,
+        "favorite": 6643,
+        "like": 6096
       },
       "duration": "146:3",
       "typename": "手机游戏",
@@ -4458,11 +4463,11 @@
       },
       "description": "策划经营战术倾向解锁思路来源：\n【新生息最强干员竟是苇草？超轮椅无限连爆刷稻谷！无限赤金？！】 https://www.bilibili.com/video/BV1bv5e67E3i",
       "stat": {
-        "play": 46666,
+        "play": 46878,
         "danmaku": 15,
         "review": 240,
-        "favorite": 615,
-        "like": 1059
+        "favorite": 614,
+        "like": 1061
       },
       "duration": "148:4",
       "typename": "手机游戏",
@@ -4616,11 +4621,11 @@
       },
       "description": "",
       "stat": {
-        "play": 367539,
-        "danmaku": 739,
-        "review": 3240,
-        "favorite": 2442,
-        "like": 20432
+        "play": 370213,
+        "danmaku": 741,
+        "review": 3247,
+        "favorite": 2460,
+        "like": 20517
       },
       "duration": "13:59",
       "typename": "手机游戏",
@@ -4654,11 +4659,11 @@
       },
       "description": "本攻略为上一版生息演算思路的互补版本，老版速刷倒霉起来会花2-3倍时间，这一版相较上一版更加稳定、省时，可以稳定一小时内开始速刷，拿完全部奖励，但流程较为复杂，如果觉得有点乱，或者有些看不懂，可以使用老版本，思路比较简单，根据自己的时间和配置情况选则适合你的版本。\n\n受限于视频时长，p1只做流程介绍，具体操作步骤请前往p2p3。\n\n电弧获取可见界园攻略合辑：\n【【明日方舟】2026界园终极逃课攻略! 入坑必看！无需抽卡！无需练卡！不用打BOSS!】 https://www.bilibili.com/vid",
       "stat": {
-        "play": 238895,
-        "danmaku": 348,
-        "review": 458,
-        "favorite": 9181,
-        "like": 6667
+        "play": 241932,
+        "danmaku": 350,
+        "review": 462,
+        "favorite": 9256,
+        "like": 6728
       },
       "duration": "88:47",
       "typename": "手机游戏",
@@ -4712,7 +4717,7 @@
       },
       "description": "攻略：东方\n后期：想当高手\n封面：susu",
       "stat": {
-        "play": 29051,
+        "play": 29090,
         "danmaku": 5,
         "review": 117,
         "favorite": 104,
@@ -4750,10 +4755,10 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 62731,
+        "play": 62804,
         "danmaku": 31,
         "review": 174,
-        "favorite": 286,
+        "favorite": 287,
         "like": 880
       },
       "duration": "26:57",
@@ -4818,7 +4823,7 @@
       },
       "description": "新干员攻略：可以使用任意干员，任意练度，携带任意技能，这意味着攻略中可能会出现较新的强力挂机干员。挂机标准同样为最晚半杀或半时长挂机。\n\n老干员攻略：即在攻略中只使用截止视频发布日前已经进店至少一次的干员。\n含各种活动赠送且常驻领取的干员\n不使用限定干员\n\n进店挂机在普通关等有代理需求的关卡中，我们只会使用已进店干员。\n在EX,S,H等不需要代理的关卡则会允许使用一个助战位降低所需干员配置，该助战位可以为任意干员。\n攻略：小咸鱼、苏梦、DLT",
       "stat": {
-        "play": 20142,
+        "play": 20147,
         "danmaku": 7,
         "review": 69,
         "favorite": 123,
@@ -4901,11 +4906,11 @@
       },
       "description": "攻略：TISN 夜半梦醒时\n后期：ccc\n封面：ccc",
       "stat": {
-        "play": 33091,
+        "play": 33173,
         "danmaku": 32,
-        "review": 344,
-        "favorite": 193,
-        "like": 1331
+        "review": 345,
+        "favorite": 194,
+        "like": 1334
       },
       "duration": "2:10",
       "typename": "手机游戏",
@@ -4939,10 +4944,10 @@
       },
       "description": "新干员攻略：可以使用任意干员，任意练度，携带任意技能，这意味着攻略中可能会出现较新的强力挂机干员。挂机标准同样为最晚半杀或半时长挂机。\n\n老干员攻略：即在攻略中只使用截止视频发布日前已经进店至少一次的干员。\n含各种活动赠送且常驻领取的干员\n不使用限定干员",
       "stat": {
-        "play": 55782,
+        "play": 55784,
         "danmaku": 8,
         "review": 153,
-        "favorite": 165,
+        "favorite": 164,
         "like": 653
       },
       "duration": "121:11",
@@ -5167,11 +5172,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 238094,
+        "play": 238330,
         "danmaku": 134,
         "review": 445,
-        "favorite": 943,
-        "like": 1614
+        "favorite": 944,
+        "like": 1618
       },
       "duration": "116:50",
       "typename": "手机游戏",
@@ -5385,10 +5390,10 @@
       },
       "description": "攻略：若梦，小蜘蛛，摸鱼，枝\n封面：ccc\n后期：ccc",
       "stat": {
-        "play": 159447,
+        "play": 159480,
         "danmaku": 132,
         "review": 273,
-        "favorite": 916,
+        "favorite": 915,
         "like": 2765
       },
       "duration": "109:31",
@@ -5453,10 +5458,10 @@
       },
       "description": "攻略：摸鱼\n封面：ccc",
       "stat": {
-        "play": 27486,
+        "play": 27502,
         "danmaku": 5,
         "review": 127,
-        "favorite": 192,
+        "favorite": 191,
         "like": 563
       },
       "duration": "33:28",
@@ -5496,11 +5501,11 @@
       },
       "description": "来源：\n0-8章   BV1TwoMBVEsz  \n9-16章 BV1bYoLBNEpm",
       "stat": {
-        "play": 16548,
+        "play": 16643,
         "danmaku": 16,
         "review": 32,
-        "favorite": 86,
-        "like": 614
+        "favorite": 87,
+        "like": 617
       },
       "duration": "8:36",
       "typename": "手机游戏",
@@ -5533,11 +5538,11 @@
       },
       "description": "在使用攻略时，你需要了解明日方舟主线的关卡类型。\n\n目前共三类：\n\n0到9章为普通与突袭独立模式，三星通关普通难度后解锁突袭难度。\n\n10到14章为磨难，标准，剧情体验兼容模式，需要在左下角切换难度，无漏通关磨难难度后会同时视为完成了标准难度和剧情体验难度，并可以同时获得三个难度的奖励。\n\n14到16章为常规，险地，沙盘推演模式。险地对标磨难难度，无漏通关险地难度会同时视为完成了常规难度。\n\n沙盘推演难度需要自选至少一个词条，至多两个词条后才能开始挑战，无漏通关后会获得和词条数量相同的推演分数，集齐24分",
       "stat": {
-        "play": 211893,
+        "play": 214219,
         "danmaku": 103,
         "review": 160,
-        "favorite": 2117,
-        "like": 1777
+        "favorite": 2134,
+        "like": 1788
       },
       "duration": "564:45",
       "typename": "手机游戏",
@@ -6500,11 +6505,11 @@
       },
       "description": "挂机版BV1a7V5z5Eci\n\n在使用攻略时，你需要了解明日方舟主线的关卡类型。\n\n目前共三类：\n\n0到9章为普通与突袭独立模式，三星通关普通难度后解锁突袭难度。\n\n10到14章为磨难，标准，剧情体验兼容模式，需要在左下角切换难度，无漏通关磨难难度后会同时视为完成了标准难度和剧情体验难度，并可以同时获得三个难度的奖励。\n\n14到16章为常规，险地，沙盘推演模式。险地对标磨难难度，无漏通关险地难度会同时视为完成了常规难度。\n\n沙盘推演难度需要自选至少一个词条，至多两个词条后才能开始挑战，无漏通关后会获得和",
       "stat": {
-        "play": 229656,
-        "danmaku": 52,
-        "review": 210,
-        "favorite": 3100,
-        "like": 2184
+        "play": 232485,
+        "danmaku": 53,
+        "review": 212,
+        "favorite": 3147,
+        "like": 2217
       },
       "duration": "421:36",
       "typename": "手机游戏",
@@ -7442,11 +7447,11 @@
       },
       "description": "攻略：东方，枝，yami，绿茶\n后期：大风车\n封面：JIE璇\n配音：Galaxy\n特别鸣谢：沙拉汀，SunlitLeaves，雾狸 三位小伙伴的帮助",
       "stat": {
-        "play": 48697,
+        "play": 49258,
         "danmaku": 9,
         "review": 26,
-        "favorite": 1049,
-        "like": 1062
+        "favorite": 1064,
+        "like": 1070
       },
       "duration": "64:36",
       "typename": "手机游戏",
@@ -7605,11 +7610,11 @@
       },
       "description": "攻略：东方，枝，yami，绿茶，何琐\n后期：大风车\n封面：JIE璇\n配音：莱斯莫",
       "stat": {
-        "play": 44121,
+        "play": 44797,
         "danmaku": 26,
         "review": 29,
-        "favorite": 1251,
-        "like": 896
+        "favorite": 1273,
+        "like": 905
       },
       "duration": "132:44",
       "typename": "手机游戏",
@@ -7838,11 +7843,11 @@
       },
       "description": "为了方便大家理解，讲解速度没有进行倍速处理。\n\n分P中每局开始时对天赋树加点，结束时对电弧特训加点。一路从N0打到N18全胜，其中有两局后期老师和朋友边聊天边打，忘记后边有战斗把核心先行一步送走了，这两局只看开头结尾的加点即可。为了展示真实性，各种漏怪一刀未剪，可以作为前车之鉴，结合道中全关卡攻略和祸乱全关卡攻略一起使用更佳。祝大家轻松通关。\n\n攻略：东方，枝，yami\n后期：大风车\n封面：JIE璇\n配音：似伶\n特别感谢糖果战士提供的空白账号支持",
       "stat": {
-        "play": 445956,
-        "danmaku": 524,
-        "review": 1116,
-        "favorite": 11620,
-        "like": 8541
+        "play": 451053,
+        "danmaku": 532,
+        "review": 1134,
+        "favorite": 11743,
+        "like": 8634
       },
       "duration": "901:1",
       "typename": "手机游戏",
@@ -7986,11 +7991,11 @@
       },
       "description": "攻略：为何漏怪\n后期：ccc\n封面：ccc",
       "stat": {
-        "play": 62378,
+        "play": 62436,
         "danmaku": 132,
         "review": 173,
         "favorite": 650,
-        "like": 2249
+        "like": 2251
       },
       "duration": "5:14",
       "typename": "手机游戏",
@@ -8024,11 +8029,11 @@
       },
       "description": "攻略：为何漏怪\n后期：ccc\n封面：ccc",
       "stat": {
-        "play": 48428,
+        "play": 48454,
         "danmaku": 113,
         "review": 155,
-        "favorite": 478,
-        "like": 1844
+        "favorite": 476,
+        "like": 1845
       },
       "duration": "6:11",
       "typename": "手机游戏",
@@ -8062,7 +8067,7 @@
       },
       "description": "激情攻略中\nPA-EX-8 思路参考：【PAEX8突袭四人挂机】 https://www.bilibili.com/video/BV1uWQgBuEK4/?share_source=copy_web&amp;vd_source=0e9df1dec1a64c0520e457cc4892a756",
       "stat": {
-        "play": 39295,
+        "play": 39298,
         "danmaku": 15,
         "review": 104,
         "favorite": 82,
@@ -8140,7 +8145,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 90902,
+        "play": 90908,
         "danmaku": 27,
         "review": 277,
         "favorite": 363,
@@ -8223,11 +8228,11 @@
       },
       "description": "攻略：摸鱼\n后期：显化\n封面：voio50\n\n超级智慧说该用超级力量了\n\n非对比仅展示通过H7-4的两个单核挂机核心",
       "stat": {
-        "play": 117051,
+        "play": 117247,
         "danmaku": 85,
         "review": 998,
         "favorite": 201,
-        "like": 2417
+        "like": 2423
       },
       "duration": "6:13",
       "typename": "手机游戏",
@@ -8261,7 +8266,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 18452,
+        "play": 18453,
         "danmaku": 5,
         "review": 42,
         "favorite": 51,
@@ -8359,7 +8364,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 44541,
+        "play": 44542,
         "danmaku": 8,
         "review": 176,
         "favorite": 184,
@@ -8465,11 +8470,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 59714,
+        "play": 59716,
         "danmaku": 17,
         "review": 97,
         "favorite": 353,
-        "like": 1157
+        "like": 1133
       },
       "duration": "20:11",
       "typename": "手机游戏",
@@ -8558,10 +8563,10 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 76271,
+        "play": 76288,
         "danmaku": 21,
         "review": 71,
-        "favorite": 302,
+        "favorite": 301,
         "like": 814
       },
       "duration": "43:40",
@@ -8671,11 +8676,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 157497,
+        "play": 157582,
         "danmaku": 41,
         "review": 280,
         "favorite": 616,
-        "like": 1174
+        "like": 1175
       },
       "duration": "86:10",
       "typename": "手机游戏",
@@ -8869,9 +8874,9 @@
       },
       "description": "新注册的号录制的素材，所有人可稳定复刻打法",
       "stat": {
-        "play": 50752,
+        "play": 50767,
         "danmaku": 118,
-        "review": 198,
+        "review": 197,
         "favorite": 781,
         "like": 1589
       },
@@ -8906,11 +8911,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 52571,
+        "play": 52656,
         "danmaku": 14,
         "review": 82,
         "favorite": 157,
-        "like": 739
+        "like": 740
       },
       "duration": "28:58",
       "typename": "手机游戏",
@@ -8999,7 +9004,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 15666,
+        "play": 15671,
         "danmaku": 3,
         "review": 22,
         "favorite": 62,
@@ -9127,11 +9132,11 @@
       },
       "description": "矢量mumu端脚本\n链接：https://pan.quark.cn/s/f6cef41827fa\n提取码：rh4m\n\n分享《明日方舟》操作录制文件，复制此分享码：mumu3990494384，打开MuMu模拟器，在操作录制里导入使用！\n方案适用分辨率：1920*1080\n\nmaa脚本 maa://84862）",
       "stat": {
-        "play": 89938,
+        "play": 90001,
         "danmaku": 17,
         "review": 377,
-        "favorite": 945,
-        "like": 2089
+        "favorite": 944,
+        "like": 2091
       },
       "duration": "4:3",
       "typename": "手机游戏",
@@ -9165,10 +9170,10 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 177085,
+        "play": 177217,
         "danmaku": 63,
         "review": 335,
-        "favorite": 720,
+        "favorite": 719,
         "like": 1721
       },
       "duration": "67:50",
@@ -9347,7 +9352,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 170125,
+        "play": 170165,
         "danmaku": 82,
         "review": 376,
         "favorite": 633,
@@ -9420,7 +9425,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 23044,
+        "play": 23067,
         "danmaku": 8,
         "review": 56,
         "favorite": 112,
@@ -9497,7 +9502,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 55171,
+        "play": 55182,
         "danmaku": 15,
         "review": 94,
         "favorite": 148,
@@ -9630,10 +9635,10 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 117880,
+        "play": 117919,
         "danmaku": 35,
         "review": 221,
-        "favorite": 367,
+        "favorite": 368,
         "like": 1197
       },
       "duration": "53:23",
@@ -9733,11 +9738,11 @@
       },
       "description": "-",
       "stat": {
-        "play": 169322,
+        "play": 169513,
         "danmaku": 295,
         "review": 1549,
-        "favorite": 2777,
-        "like": 5038
+        "favorite": 2768,
+        "like": 5039
       },
       "duration": "10:58",
       "typename": "手机游戏",
@@ -9769,7 +9774,7 @@
       },
       "description": "提前祝大家新年快乐",
       "stat": {
-        "play": 19114,
+        "play": 19119,
         "danmaku": 4,
         "review": 67,
         "favorite": 99,
@@ -9807,7 +9812,7 @@
       },
       "description": "攻略：DLT",
       "stat": {
-        "play": 9486,
+        "play": 9496,
         "danmaku": 1,
         "review": 43,
         "favorite": 24,
@@ -9845,7 +9850,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 34423,
+        "play": 34436,
         "danmaku": 11,
         "review": 112,
         "favorite": 93,
@@ -9981,11 +9986,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 111117,
+        "play": 111244,
         "danmaku": 60,
         "review": 321,
         "favorite": 403,
-        "like": 1212
+        "like": 1213
       },
       "duration": "41:12",
       "typename": "手机游戏",
@@ -10083,11 +10088,11 @@
       },
       "description": "攻略：仙人，tisn， DLT，神话，玄青修士，谢瑞平\n后期：睡了10小时谁懂\n封面：susu",
       "stat": {
-        "play": 172130,
+        "play": 172266,
         "danmaku": 154,
         "review": 688,
-        "favorite": 1233,
-        "like": 3830
+        "favorite": 1232,
+        "like": 3831
       },
       "duration": "164:15",
       "typename": "手机游戏",
@@ -10165,7 +10170,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 59183,
+        "play": 59195,
         "danmaku": 25,
         "review": 60,
         "favorite": 129,
@@ -10388,11 +10393,11 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 194377,
+        "play": 194500,
         "danmaku": 53,
         "review": 221,
-        "favorite": 656,
-        "like": 1532
+        "favorite": 657,
+        "like": 1533
       },
       "duration": "103:38",
       "typename": "手机游戏",
@@ -10571,7 +10576,7 @@
       },
       "description": "激情攻略中",
       "stat": {
-        "play": 121347,
+        "play": 121350,
         "danmaku": 51,
         "review": 273,
         "favorite": 348,
@@ -40368,8 +40373,8 @@
     }
   ],
   "stats": {
-    "fans": 196333,
+    "fans": 196338,
     "videos": 536,
-    "likes": 1208596
+    "likes": 1208666
   }
 }
